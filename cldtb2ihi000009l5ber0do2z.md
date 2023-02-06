@@ -16,6 +16,14 @@ SCPs are written in JSON format and use conditions and permissions to specify wh
 
 One of the key benefits of using SCPs is that you can use them to enforce the least privileged access to your AWS resources. This means that users and roles can only access the resources that they need to perform their job tasks and nothing more. This helps reduce the risk of accidental or malicious actions that could compromise the security or stability of your AWS environment. For example, an organisation may have an SCP that denies access to certain services or resources to meet compliance standards.
 
-Another benefit of SCPs is that they can be used to enforce best practices and standards within an organisation. For example, an organisation may have an SCP that requires users to use secure protocols when accessing specific resources or that limits the number of resources that can be created in a specific account.
+Another benefit of SCPs is that they can be used to enforce best practices and standards within an organisation. For example, an organisation may have an SCP that requires users to use secure protocols when accessing specific resources or one that limits the number of resources that can be created in a specific account.
 
 Overall, AWS Organizations and SCPs provide a powerful tool for managing and securing multiple AWS accounts within a single organisation. By centralising management and using SCPs to set permissions and policies, organisations can ensure compliance, enforce best practices, and effectively manage access to resources across all accounts.
+
+External links:
+
+1. Service Control Policy documentation: [https://docs.aws.amazon.com/organizations/latest/userguide/orgs\_manage\_policies\_scps.html](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html)
+    
+2. Introduction to AWS Organisation: [https://docs.aws.amazon.com/organizations/latest/userguide/orgs\_introduction.html](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html)
+    
+3. Managing accounts in AWS Organisation: [https://docs.aws.amazon.com/organizations/latest/userguide/orgs\_manage\_accounts.html](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_accounts.html)
