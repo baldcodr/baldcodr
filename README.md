@@ -9,10 +9,12 @@
 <h3 align="center">A passionate cloud engineer/architect currently based in the United Kingdom.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baldcodr&label=Profile%20views&color=0e75b6&style=flat" alt="baldcodr" /> 
-<a href="https://app.daily.dev/baldcodr"><img src="https://github.com/baldcodr/baldcodr/blob/master/devcard.svg" width="250" alt="David Akuma's Dev Card"/></a>
+
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baldcodr" alt="baldcodr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baldcodr" alt="baldcodr" /></a> 
+<a href="https://app.daily.dev/baldcodr"><img src="https://github.com/baldcodr/baldcodr/blob/master/devcard.svg" width="250" alt="David Akuma's Dev Card"/></a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/baldcodr" target="blank"><img src="https://img.shields.io/twitter/follow/baldcodr?logo=twitter&style=for-the-badge" alt="baldcodr" /></a> </p>
 
