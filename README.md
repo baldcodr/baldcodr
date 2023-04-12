@@ -3,12 +3,14 @@
 
 <!-- David Akuma is passionate about building technology of the future to solve the challenges faced by businesses leverging industry 4.0 technologies. -->
 
-<a href="https://app.daily.dev/baldcodr"><img src="https://github.com/baldcodr/baldcodr/blob/master/devcard.svg" width="250" alt="David Akuma's Dev Card"/></a>
+
 
 <h1 align="center">Hi 👋, I'm David Akuma</h1>
 <h3 align="center">A passionate cloud engineer/architect currently based in the United Kingdom.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baldcodr&label=Profile%20views&color=0e75b6&style=flat" alt="baldcodr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baldcodr&label=Profile%20views&color=0e75b6&style=flat" alt="baldcodr" /> 
+<a href="https://app.daily.dev/baldcodr"><img src="https://github.com/baldcodr/baldcodr/blob/master/devcard.svg" width="250" alt="David Akuma's Dev Card"/></a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baldcodr" alt="baldcodr" /></a> </p>
 
