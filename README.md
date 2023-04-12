@@ -12,9 +12,9 @@
 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baldcodr" alt="baldcodr" /></a> 
+<div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baldcodr" alt="baldcodr" /></a> 
 <a href="https://app.daily.dev/baldcodr"><img src="https://github.com/baldcodr/baldcodr/blob/master/devcard.svg" width="250" alt="David Akuma's Dev Card"/></a>
-</p>
+</div>
 
 <p align="left"> <a href="https://twitter.com/baldcodr" target="blank"><img src="https://img.shields.io/twitter/follow/baldcodr?logo=twitter&style=for-the-badge" alt="baldcodr" /></a> </p>
 
