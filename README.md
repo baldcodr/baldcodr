@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **AWS, Cloud Engineering, Software Engineering.**
 
-- 📫 How to reach me **chukay360@gmail.com**
+- 📫 How to reach me <a href="https://linkedin.com/in/mrakumadavid" target="blank">LinkedIn</a>
 
 - 📄 Know about my experiences [https://davidakuma.com/](https://davidakuma.com/)
 
