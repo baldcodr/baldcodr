@@ -1,4 +1,12 @@
-# Demo - Infrastructure as Code Deployment using Terraform
+---
+title: "[Demo] Infrastructure as Code Deployment using Terraform"
+datePublished: Sun Feb 26 2023 19:28:57 GMT+0000 (Coordinated Universal Time)
+cuid: clelsb54y00040amd6uoiccgs
+slug: demo-infrastructure-as-code-deployment-using-terraform
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677434803779/d14de103-70a5-404d-9e5e-f7ec92e6ea1f.webp
+tags: cloudformation, aws, terraform, iac
+
+---
 
 The cloud offers several ways to deploy infrastructure, one being through the management console. With the console, you can have different services up and running quickly with a few clicks. This sure is a fast way to set up an environment, but surely not the most efficient way to do so. Also as an organisation continues to grow, the organisation of projects becomes much messier using the console.
 
