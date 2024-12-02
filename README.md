@@ -1,7 +1,7 @@
 ![Presentation](https://assets.zyrosite.com/cdn-cgi/image/format=auto,fit=crop/mnlZ5vez6xUkDgJB/img_3519-m5Kvj7vLxbCrvPP3.JPG)
 
 <h1 align="center">Hi 👋, I'm David Akuma</h1>
-<h3 align="center">A passionate cloud engineer/architect currently based in the United Kingdom.</h3>
+<h3 align="center">A love building software and sharing my experience along the way.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baldcodr&label=Profile%20views&color=0e75b6&style=flat" alt="baldcodr" /> 
 </p>
