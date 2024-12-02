@@ -1,4 +1,4 @@
-![Presentation]([https://res.cloudinary.com/sl-asset/image/upload/v1607690906/david/IMG-20201021-WA0028_uarnvs.jpg](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=606,h=344,fit=crop,trim=0;0;368.86153846153843;0/mnlZ5vez6xUkDgJB/img_3519-m5Kvj7vLxbCrvPP3.JPG))
+![Presentation](https://assets.zyrosite.com/cdn-cgi/image/format=auto,fit=crop/mnlZ5vez6xUkDgJB/img_3519-m5Kvj7vLxbCrvPP3.JPG)
 
 <h1 align="center">Hi 👋, I'm David Akuma</h1>
 <h3 align="center">A passionate cloud engineer/architect currently based in the United Kingdom.</h3>
@@ -22,9 +22,3 @@
 - 📫 Connect with me on <a href="https://linkedin.com/in/mrakumadavid" target="blank">LinkedIn</a>
 
 - 📄 Know about my experiences [https://davidakuma.com/](https://davidakuma.com/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://hashnode.com/@davidakuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@davidakuma" height="30" width="40" /></a>
-</p>
